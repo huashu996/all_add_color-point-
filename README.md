@@ -1,5 +1,5 @@
+# 将照片颜色投影到点云
 colored_pointcloud package
-#将照片颜色投影到点云
 Install: 
 cd to the src folder of a ros workspace, git clone this package and catkin_make this workspace.
 
